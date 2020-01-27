@@ -1,0 +1,70 @@
+[
+  {
+    "ArtistId": 1,
+    "Genre": "hip-hop",
+    "SpotifyArtistId": "4LLpKhyESsyAXpc4laK94U"
+  },
+
+
+  {
+    "ArtistId": 2,
+    "Genre": "indie rock",
+    "SpotifyArtistId": "6nB0iY1cjSY1KyhYyuIIKH"
+  },
+
+
+  {
+    "ArtistId": 3,
+    "Genre": "electronic",
+    "SpotifyArtistId": "5a0etAzO5V26gvlbmHzT9W"
+  },
+
+
+  {
+    "ArtistId": 4,
+    "Genre": "rock",
+    "SpotifyArtistId": "6ZLTlhejhndI4Rh53vYhrY"
+  },
+
+
+  {
+    "ArtistId": 5,
+    "Genre": "synthpop",
+    "SpotifyArtistId": "4R073T3AVJKqAsbzLmLW9u"
+  },
+
+
+  {
+    "ArtistId": 6,
+    "Genre": "psychdelic rock",
+    "SpotifyArtistId": "7DCnwoFMqGN6eZULdcLZeL"
+  },
+
+
+  {
+    "ArtistId": 7,
+    "Genre": "Synthpop",
+    "SpotifyArtistId": "4AGNJdJiVltImYk1UTLE0K"
+  },
+
+
+  {
+    "ArtistId": 8,
+    "Genre": "psychedelic trance",
+    "SpotifyArtistId": "6S2tas4z6DyIklBajDqJxI"
+  },
+
+
+  {
+    "ArtistId": 9,
+    "Genre": "Electropop",
+    "SpotifyArtistId": "3AA28KZvwAUcZuOKwyblJQ"
+  },
+
+
+  {
+    "ArtistId": 10,
+    "Genre": "Psychedelic Pop",
+    "SpotifyArtistId": "5INjqkS1o8h1imAzPqGZBb"
+  }
+]
